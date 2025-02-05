@@ -1,10 +1,10 @@
 # Hi, I'm Caio César! 👋
 
 🚀 Passionate developer focused on technology and innovative solutions.  
-🎓 Computer Science graduate.
-💻 Working with Dart - Flutter.
-🌐 Experienced in HTTP, Model-View-Controller (MVC) architecture, and API calls.
-📚 Knowledges JavaScript, Laravel, PHP, SQL, HTML, HTTP, and Python.
+🎓 Computer Science graduate.  
+💻 Working with Dart - Flutter.  
+🌐 Experienced in HTTP, Model-View-Controller (MVC) architecture, and API calls.  
+📚 Knowledges JavaScript, Laravel, PHP, SQL, HTML, HTTP, and Python.  
 
 ## 🔧 Technologies I use:
 <div style="display: inline_block"><br> 

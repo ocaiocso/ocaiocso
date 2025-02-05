@@ -6,9 +6,14 @@
 
 <div align="center">
   <a href="https://github.com/ocaiocso">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ocaiocso&show_icons=true&theme=radical&include_all_commits=true&count_private=true&orgs=d5consultoria"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ocaiocso&show_icons=true&theme=radical&include_all_commits=true&count_private=true&"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocaiocso&layout=compact&langs_count=7&theme=radical"/>
 </div>
+<div align="center">
+  <a href="https://github.com/d5consultoria">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=d5consultoria&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+</div>
+
 
 
 ## 🔧 Technologies I use:

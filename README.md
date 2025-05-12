@@ -2,9 +2,9 @@
 
 🚀 Passionate developer focused on technology and innovative solutions.  
 🎓 Computer Science graduate.  
-💻 Working with Dart - Flutter and PHP - Laravel.  
-🌐 Experienced in HTTP, Model-View-Controller (MVC) architecture, and API calls.  
-📚 Knowledges JavaScript, Laravel, PHP, SQL, HTML, HTTP, and Python.  
+💻 Working with Dart - Flutter & PHP - Laravel.  
+🌐 Experienced in HTTP, Model-View-Controller (MVC) architecture, & API calls.  
+📚 Knowledges JavaScript, Laravel, PHP, SQL, HTML, HTTP, & Python.  
 
 ## 🔧 Technologies I use:
 <div style="display: inline_block"><br> 

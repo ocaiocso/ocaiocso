@@ -4,7 +4,7 @@
 🎓 Computer Science graduate.  
 💻 Working with Dart - Flutter & PHP - Laravel.  
 🌐 Experienced in HTTP, Model-View-Controller (MVC) architecture, Model Context Protocol (MCP), Websockets & API calls.  
-📚 Knowledges TypeScript - Vue, PHP - Laravel, SQL, HTML, HTTP, & Python.  
+📚 Knowledges Flutter, PHP - Laravel, TypeScript, Vue, SQL, HTML, Websockets & API calls.  
 
 ## 🔧 Technologies I use:
 <div style="display: inline_block"><br> 
